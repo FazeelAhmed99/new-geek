@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/new-geek/static/css/main.777bc3fc.chunk.css",
+    "main.js": "/new-geek/static/js/main.6645697e.chunk.js",
+    "main.js.map": "/new-geek/static/js/main.6645697e.chunk.js.map",
+    "runtime-main.js": "/new-geek/static/js/runtime-main.93badf18.js",
+    "runtime-main.js.map": "/new-geek/static/js/runtime-main.93badf18.js.map",
+    "static/js/2.6fb642c2.chunk.js": "/new-geek/static/js/2.6fb642c2.chunk.js",
+    "static/js/2.6fb642c2.chunk.js.map": "/new-geek/static/js/2.6fb642c2.chunk.js.map",
+    "static/js/3.8e16edcf.chunk.js": "/new-geek/static/js/3.8e16edcf.chunk.js",
+    "static/js/3.8e16edcf.chunk.js.map": "/new-geek/static/js/3.8e16edcf.chunk.js.map",
+    "index.html": "/new-geek/index.html",
+    "static/css/main.777bc3fc.chunk.css.map": "/new-geek/static/css/main.777bc3fc.chunk.css.map",
+    "static/js/2.6fb642c2.chunk.js.LICENSE.txt": "/new-geek/static/js/2.6fb642c2.chunk.js.LICENSE.txt",
+    "static/media/newloop.db0f6634.png": "/new-geek/static/media/newloop.db0f6634.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93badf18.js",
+    "static/js/2.6fb642c2.chunk.js",
+    "static/css/main.777bc3fc.chunk.css",
+    "static/js/main.6645697e.chunk.js"
+  ]
+}
